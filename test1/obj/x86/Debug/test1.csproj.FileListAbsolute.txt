@@ -1,0 +1,195 @@
+c:\users\souvik bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.Form1.resources
+c:\users\souvik bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.Properties.Resources.resources
+c:\users\souvik bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\bin\Debug\Database1.mdf
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\bin\Debug\Database1_log.ldf
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.home.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.addstud_details.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.add_stud_singl.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.assign_subject.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.Registration.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.addstud_bulk.resources
+H:\Projects\test1\test1\bin\Debug\s.exe.config
+H:\Projects\test1\test1\bin\Debug\Database1.mdf
+H:\Projects\test1\test1\bin\Debug\Database1_log.ldf
+H:\Projects\test1\test1\bin\Debug\s.exe.manifest
+H:\Projects\test1\test1\bin\Debug\s.application
+H:\Projects\test1\test1\bin\Debug\s.exe
+H:\Projects\test1\test1\bin\Debug\s.pdb
+H:\Projects\test1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+H:\Projects\test1\test1\obj\x86\Debug\test1.addstud_bulk.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.addstud_details.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.add_stud_singl.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.assign_subject.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.Form1.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.home.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.Properties.Resources.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.Registration.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+H:\Projects\test1\test1\obj\x86\Debug\s.exe.manifest
+H:\Projects\test1\test1\obj\x86\Debug\s.application
+H:\Projects\test1\test1\obj\x86\Debug\s.exe
+H:\Projects\test1\test1\obj\x86\Debug\s.pdb
+I:\Projects\test1\test1\bin\Debug\s.exe.config
+I:\Projects\test1\test1\obj\x86\Debug\s.exe
+I:\Projects\test1\test1\obj\x86\Debug\s.pdb
+I:\Projects\test1\test1\bin\Debug\Database1.mdf
+I:\Projects\test1\test1\bin\Debug\Database1_log.ldf
+I:\Projects\test1\test1\bin\Debug\s.exe.manifest
+I:\Projects\test1\test1\bin\Debug\s.application
+I:\Projects\test1\test1\bin\Debug\s.exe
+I:\Projects\test1\test1\bin\Debug\s.pdb
+I:\Projects\test1\test1\obj\x86\Debug\test1.addstud_bulk.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.addstud_details.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.add_stud_singl.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.assign_subject.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.Form1.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.home.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.Properties.Resources.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.Registration.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+I:\Projects\test1\test1\obj\x86\Debug\s.exe.manifest
+I:\Projects\test1\test1\obj\x86\Debug\s.application
+F:\Projects\test1\test1\bin\Debug\s.exe.config
+F:\Projects\test1\test1\obj\x86\Debug\s.exe
+F:\Projects\test1\test1\obj\x86\Debug\s.pdb
+I:\Projects\test1\test1\obj\x86\Debug\test1.reg_print.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.enable_new_session.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.report.resources
+E:\PAES\test1\test1\bin\Debug\s.exe.config
+E:\PAES\test1\test1\obj\x86\Debug\s.exe
+E:\PAES\test1\test1\obj\x86\Debug\s.pdb
+E:\PAES\test1\test1\bin\Debug\Database1.mdf
+E:\PAES\test1\test1\bin\Debug\Database1_log.ldf
+E:\PAES\test1\test1\bin\Debug\s.exe.manifest
+E:\PAES\test1\test1\bin\Debug\s.application
+E:\PAES\test1\test1\bin\Debug\s.exe
+E:\PAES\test1\test1\bin\Debug\s.pdb
+E:\PAES\test1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+E:\PAES\test1\test1\obj\x86\Debug\test1.addstud_bulk.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.addstud_details.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.add_stud_singl.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.assign_subject.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.enable_new_session.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.Form1.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.home.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.Properties.Resources.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.Registration.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.reg_print.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.report.resources
+E:\PAES\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+E:\PAES\test1\test1\obj\x86\Debug\s.exe.manifest
+E:\PAES\test1\test1\obj\x86\Debug\s.application
+H:\test1\test1\bin\Debug\s.exe.config
+H:\test1\test1\obj\x86\Debug\s.exe
+H:\test1\test1\obj\x86\Debug\s.pdb
+I:\Projects\test1\test1\obj\x86\Debug\test1.re_print.resources
+I:\Projects\test1\test1\obj\x86\Debug\test1.re_reg_print.resources
+D:\Projects\test1\test1\bin\Debug\s.exe.config
+D:\Projects\test1\test1\obj\x86\Debug\s.exe
+D:\Projects\test1\test1\obj\x86\Debug\s.pdb
+D:\Projects\test1\test1\bin\Debug\Database1.mdf
+D:\Projects\test1\test1\bin\Debug\Database1_log.ldf
+D:\Projects\test1\test1\bin\Debug\s.exe.manifest
+D:\Projects\test1\test1\bin\Debug\s.application
+D:\Projects\test1\test1\bin\Debug\s.exe
+D:\Projects\test1\test1\bin\Debug\s.pdb
+D:\Projects\test1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+D:\Projects\test1\test1\obj\x86\Debug\test1.addstud_bulk.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.addstud_details.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.add_stud_singl.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.assign_subject.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.enable_new_session.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.Form1.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.home.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.Properties.Resources.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.Registration.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.reg_print.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.report.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.re_print.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.re_reg_print.resources
+D:\Projects\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+D:\Projects\test1\test1\obj\x86\Debug\s.exe.manifest
+D:\Projects\test1\test1\obj\x86\Debug\s.application
+I:\Projects\test1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+H:\Projects\test1\test1\obj\x86\Debug\test1.enable_new_session.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.reg_print.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.report.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.re_print.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.re_reg_print.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.add_leftover_stud.resources
+H:\Projects\test1\test1\obj\x86\Debug\test1.menu.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.add_leftover_stud.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.enable_new_session.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.menu.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.reg_print.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.report.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.re_print.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.re_reg_print.resources
+H:\test1\test1\bin\Debug\Database1.mdf
+H:\test1\test1\bin\Debug\Database1_log.ldf
+H:\test1\test1\bin\Debug\s.exe.manifest
+H:\test1\test1\bin\Debug\s.application
+H:\test1\test1\bin\Debug\s.exe
+H:\test1\test1\bin\Debug\s.pdb
+H:\test1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+H:\test1\test1\obj\x86\Debug\test1.addstud_bulk.resources
+H:\test1\test1\obj\x86\Debug\test1.addstud_details.resources
+H:\test1\test1\obj\x86\Debug\test1.add_leftover_stud.resources
+H:\test1\test1\obj\x86\Debug\test1.add_stud_singl.resources
+H:\test1\test1\obj\x86\Debug\test1.assign_subject.resources
+H:\test1\test1\obj\x86\Debug\test1.enable_new_session.resources
+H:\test1\test1\obj\x86\Debug\test1.Form1.resources
+H:\test1\test1\obj\x86\Debug\test1.home.resources
+H:\test1\test1\obj\x86\Debug\test1.menu.resources
+H:\test1\test1\obj\x86\Debug\test1.Properties.Resources.resources
+H:\test1\test1\obj\x86\Debug\test1.Registration.resources
+H:\test1\test1\obj\x86\Debug\test1.reg_print.resources
+H:\test1\test1\obj\x86\Debug\test1.report.resources
+H:\test1\test1\obj\x86\Debug\test1.re_print.resources
+H:\test1\test1\obj\x86\Debug\test1.re_reg_print.resources
+H:\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+H:\test1\test1\obj\x86\Debug\s.exe.manifest
+H:\test1\test1\obj\x86\Debug\s.application
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.certificate.resources
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+L:\PAES final\test1\test1\bin\Debug\s.exe.config
+L:\PAES final\test1\test1\obj\x86\Debug\s.exe
+L:\PAES final\test1\test1\obj\x86\Debug\s.pdb
+L:\PAES final\test1\test1\bin\Debug\Database1.mdf
+L:\PAES final\test1\test1\bin\Debug\Database1_log.ldf
+L:\PAES final\test1\test1\bin\Debug\s.exe.manifest
+L:\PAES final\test1\test1\bin\Debug\s.application
+L:\PAES final\test1\test1\bin\Debug\s.exe
+L:\PAES final\test1\test1\bin\Debug\s.pdb
+L:\PAES final\test1\test1\obj\x86\Debug\test1.csprojResolveAssemblyReference.cache
+L:\PAES final\test1\test1\obj\x86\Debug\test1.addstud_bulk.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.addstud_details.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.add_leftover_stud.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.add_stud_singl.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.assign_subject.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.certificate.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.enable_new_session.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.Form1.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.home.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.menu.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.Properties.Resources.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.Registration.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.reg_print.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.report.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.re_print.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.re_reg_print.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.splash.resources
+L:\PAES final\test1\test1\obj\x86\Debug\test1.csproj.GenerateResource.Cache
+L:\PAES final\test1\test1\obj\x86\Debug\s.exe.manifest
+L:\PAES final\test1\test1\obj\x86\Debug\s.application
+C:\Users\Souvik Bachhar\documents\visual studio 2010\Projects\test1\test1\obj\x86\Debug\test1.splash.resources
+C:\Users\Souvik Bachhar\Documents\Visual Studio 2010\Projects\test1\test1\bin\Debug\PAES.exe.config
+C:\Users\Souvik Bachhar\Documents\Visual Studio 2010\Projects\test1\test1\bin\Debug\PAES.exe.manifest
+C:\Users\Souvik Bachhar\Documents\Visual Studio 2010\Projects\test1\test1\bin\Debug\PAES.application
+C:\Users\Souvik Bachhar\Documents\Visual Studio 2010\Projects\test1\test1\bin\Debug\PAES.exe
+C:\Users\Souvik Bachhar\Documents\Visual Studio 2010\Projects\test1\test1\bin\Debug\PAES.pdb
+C:\Users\Souvik Bachhar\Documents\Visual Studio 2010\Projects\test1\test1\obj\x86\Debug\PAES.exe.manifest
+C:\Users\Souvik Bachhar\Documents\Visual Studio 2010\Projects\test1\test1\obj\x86\Debug\PAES.application
+C:\Users\Souvik Bachhar\Documents\Visual Studio 2010\Projects\test1\test1\obj\x86\Debug\PAES.exe
+C:\Users\Souvik Bachhar\Documents\Visual Studio 2010\Projects\test1\test1\obj\x86\Debug\PAES.pdb
